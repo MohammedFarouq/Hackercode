@@ -350,7 +350,7 @@ def gml():
 
             uid = kode+kodex+guru+doamin
 
-            pwx = [kode,kodex,kode+kodex,kode+'123',kode+'1234',kode+'12345',kode+guru,kodex+'123',kodex+'1234',kodex+'12345',kodex+'@123',Kodex+Guru'123']
+            pwx = [kode,kodex,kode+kodex]
 
             yaari.submit(rcrack1,uid,pwx,tl)
 

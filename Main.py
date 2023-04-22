@@ -278,7 +278,7 @@ def num():
 
             uid = kode+kodex+kod+guru
 
-            pwx = [kode+kodex+kod+guru,kod+guru,kodex+guru,kode+kodex+kod,]
+            pwx = [kode+kodex+kod+guru]
 
             yaari.submit(rcrack1,uid,pwx,tl)
 
